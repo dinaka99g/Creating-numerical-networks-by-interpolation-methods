@@ -1,0 +1,1 @@
+# https-github.com-dinaka99g-Creating-numerical-networks-by-interpolation-methods
