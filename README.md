@@ -1,6 +1,6 @@
 # Creating-numerical-networks-by-interpolation-methods
 
-Using an computer program written in the Python programming language, generate a structured 
+Using a program written in the Python programming language, generate a structured 
 network using transfinite interpolation for the following cases:
 
 1. the computational domain lies within the square defined by points (0,0), (5,5), (0,10) and (-5,5), and
